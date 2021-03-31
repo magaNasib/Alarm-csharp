@@ -1,0 +1,11 @@
+C:\Users\Maga\source\repos\AlarmAdvanced\AlarmAdvanced\bin\Debug\AlarmAdvanced.exe.config
+C:\Users\Maga\source\repos\AlarmAdvanced\AlarmAdvanced\bin\Debug\AlarmAdvanced.exe
+C:\Users\Maga\source\repos\AlarmAdvanced\AlarmAdvanced\bin\Debug\AlarmAdvanced.pdb
+C:\Users\Maga\source\repos\AlarmAdvanced\AlarmAdvanced\obj\Debug\AlarmAdvanced.csprojAssemblyReference.cache
+C:\Users\Maga\source\repos\AlarmAdvanced\AlarmAdvanced\obj\Debug\AlarmAdvanced.Properties.Resources.resources
+C:\Users\Maga\source\repos\AlarmAdvanced\AlarmAdvanced\obj\Debug\AlarmAdvanced.csproj.GenerateResource.cache
+C:\Users\Maga\source\repos\AlarmAdvanced\AlarmAdvanced\obj\Debug\AlarmAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Maga\source\repos\AlarmAdvanced\AlarmAdvanced\obj\Debug\AlarmAdvanced.exe
+C:\Users\Maga\source\repos\AlarmAdvanced\AlarmAdvanced\obj\Debug\AlarmAdvanced.pdb
+C:\Users\Maga\source\repos\AlarmAdvanced\AlarmAdvanced\obj\Debug\AlarmAdvanced.Alarm.resources
+C:\Users\Maga\source\repos\AlarmAdvanced\AlarmAdvanced\obj\Debug\AlarmAdvanced.Popup.resources
